@@ -1,0 +1,22 @@
+{
+  "name": "padsite",
+  "version": "1.0.0",
+  "description": "Portfolio Site Aidan Dennehy",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duinneacha/padsite.git"
+  },
+  "author": "Aidan Dennehy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duinneacha/padsite/issues"
+  },
+  "homepage": "https://github.com/duinneacha/padsite#readme",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
